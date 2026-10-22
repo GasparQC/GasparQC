@@ -2,7 +2,7 @@
 
 I'm a data scientist from Córdoba, Argentina. This profile is my lab log: every project is written up as an experiment, with the question, the result and what I learned. When a result doesn't hold up, it goes in the log too.
 
-**Contact:** [gasparquintana125@gmail.com](mailto:gasparquintana125@gmail.com)
+**Portfolio:** [gaspar-quintana.vercel.app](https://gaspar-quintana.vercel.app) · **Contact:** [gasparquintana125@gmail.com](mailto:gasparquintana125@gmail.com)
 
 ## Experiments
 
@@ -51,7 +51,7 @@ automation   n8n · Claude Code · FastAPI · Telegram bots · LLM agents
 tooling      Git · Docker · Google Colab · AWS (Cloud Practitioner)
 ```
 
-Before data I sold cars and prefab houses and worked at a newspaper, so I build tools with the people who will use them in mind. At work I cut weekly sales reporting from 4 hours to 30 minutes with n8n and Power BI, and replaced manual inventory tracking for 500+ items with a Telegram bot.
+Before data I sold cars and prefab houses and worked at a newspaper, so I build tools with the people who will use them in mind. Today, at Scalo, I design and maintain GoHighLevel automations for 9 businesses in healthcare, aesthetics, financial education and services. Before that, I cut weekly sales reporting from 4 hours to 30 minutes with n8n and Power BI, and replaced manual inventory tracking for 500+ items with a Telegram bot.
 
 ## Activity
 
@@ -69,6 +69,6 @@ Soy científico de datos, de Córdoba. Este perfil es mi bitácora de laboratori
 
 Tengo aprobadas las 24 materias de la Tecnicatura en IA y Ciencia de Datos (Universidad Siglo 21) y estoy haciendo mi tesis sobre rangos de valoración de empresas con ML. Busco un puesto de analista o científico de datos, full time.
 
-📫 gasparquintana125@gmail.com
+🌐 [gaspar-quintana.vercel.app](https://gaspar-quintana.vercel.app/es) · 📫 gasparquintana125@gmail.com
 
 </details>
